@@ -1,5 +1,3 @@
--- Config for Onedark theme
-
 vim.cmd([[highlight clear LineNr]])
 
 vim.wo.number = true
