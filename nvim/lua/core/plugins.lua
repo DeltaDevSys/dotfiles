@@ -26,7 +26,7 @@ require("lazy").setup({
     { 'nvim-treesitter/nvim-treesitter', branch = 'master', lazy = false, build = ":TSUpdate"},
 	{ 'neovim/nvim-lspconfig' },
 	
-    { 'joshdick/onedark.vim' },
+    { "catppuccin/nvim", name = "catppuccin", priority = 1000 },
     
     { 'hrsh7th/cmp-nvim-lsp' },
     { 'hrsh7th/cmp-buffer' },
