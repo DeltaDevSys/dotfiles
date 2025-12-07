@@ -8,8 +8,8 @@
 
 ### loading depends
 ``` fish
-chmod +x ~/.config/script/load_depends.sh
-~/.config/script/load_depends.sh
+chmod +x ~/.config/scripts/load_depends.sh
+~/.config/scripts/load_depends.sh
 ```
 ___________________________________________________
 # Nvim
