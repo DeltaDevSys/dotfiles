@@ -1,0 +1,29 @@
+width=700
+height=350
+margin=12
+border_radius=10
+background=rgba(30, 40, 46, 0, 0.96)
+border=2 rgba(48, 48, 71, 0.8)
+
+font=JetBrains Mono 11
+foreground=rgba(250, 214, 244, 0.95)
+
+placeholder_text=rgba(166,173,200,0.6)   # subtext0 – #a6adc8
+
+color_normal=rgba(205,214,244,0.85)      # text
+color_selected=rgba(137,180,250,0.9)     # blue (lavender) – #89b4fa
+color_active=rgba(166,227,161,0.9)       # green (green) – #a6e3a1
+
+icon_theme=Papirus
+icon_size=24
+
+horizontal_padding=12
+vertical_padding=8
+line_spacing=4
+
+hide_on_focus_lost=true
+allow_markup=true
+
+show=drun
+prompt=Start application...
+
