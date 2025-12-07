@@ -14,6 +14,9 @@ chmod +x ~/.config/scripts/load_depends.sh
 
 ## Warn! depends installing only fo arch and arch-based distros
 ___________________________________________________
+# Fish shell
+### удобна и красива
+___________________________________________________
 # Nvim
 ### My config for NVim for C, C++, Bash, Rust, Lua
 ___________________________________________________
