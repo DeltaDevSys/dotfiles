@@ -10,3 +10,10 @@ ____________________________________________________
 # Fastfetch
 ### fastfetch cool theme
 ____________________________________________________
+# Wofi
+### catppuccin mocha based theme
+### скоро заменим на rofi
+____________________________________________________
+
+# TG
+## [OpenDelta](https://t.me/open_delta_project)
