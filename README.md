@@ -21,6 +21,7 @@ ___________________________________________________
 ___________________________________________________
 # Nvim
 ### My config for NVim for C, C++, Bash, Rust, Lua
+### Lazy.nvim; Mason; Catppuccin.nvim; Neotree
 ___________________________________________________
 # Waybar
 ### Catppuccin based theme
