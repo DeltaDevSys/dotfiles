@@ -1,12 +1,12 @@
 window {
     background-color: rgba(30, 30, 46, 0.9);
     border-radius: 12px;
-    border: 2px solid #344766;
+    border: 2px solid #44308f;
 }
 
 #input {
     background-color: #161622;
-    color: #bcc5e2;
+    color: #a6afcc;
     font-family: 'JetBrains Mono Nerd Font', monospace;
     padding: 8px;
     margin: 10px;
@@ -31,12 +31,6 @@ window {
 }
 
 #entry:selected {
-    background-color: #5775a7;
-    color: #1e1e2e;
-}
-
-
-#entry:selected {
-    background-color: #5775a7;
+    background-color: #313266;
     color: #1e1e2e;
 }
