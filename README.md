@@ -12,6 +12,7 @@
   mv ~/.config/.config/nvim/ ~/.config/
   mv ~/.config/.config/waybar/ ~/.config/
   mv ~/.config/.config/wofi/ ~/.config/
+  mv ~/.config/.config/fastfetch/ ~/.config/
 ```
 
 ### and copy base config for Vim
