@@ -12,7 +12,6 @@
   mv ~/.config/.config/nvim/ ~/.config/
   mv ~/.config/.config/waybar/ ~/.config/
   mv ~/.config/.config/wofi/ ~/.config/
-  mv ~/.config/.config/alacritty/ ~/.config/
 ```
 
 ### and copy base config for Vim
