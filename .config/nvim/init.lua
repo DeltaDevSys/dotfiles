@@ -1,4 +1,4 @@
-- настройка и писок плагинов для установки
+-- настройка и писок плагинов для установки
 require('core.plugins')
 require('core.mappings')
 require('core.configs')
