@@ -34,12 +34,14 @@ ___________________________________________________
 ## Nvim
 #### My config for NVim for C, C++, Bash, Rust, Lua
 #### Lazy.nvim; Mason; Catppuccin.nvim; Neotree; treesitter; lualine.nvim; bufferline.nvim
+#### Catppuccin mocha theme
 ___________________________________________________
 ## Waybar
-#### Catppuccin based theme
+#### Catppuccin theme
 ____________________________________________________
 ## Hyprland
 #### binds, hyprpaper, hyprlock
+#### Catppuccin mocha theme
 ____________________________________________________
 ## Fastfetch
 #### fastfetch cool theme
@@ -47,7 +49,7 @@ ____________________________________________________
 ## Wofi
 #### catppuccin mocha based theme
 #### скоро незаменим на rofi
-#### без иконок к сожалению
+#### с крутыми иконками WhiteSur-dark
 ____________________________________________________
 
 # TG
