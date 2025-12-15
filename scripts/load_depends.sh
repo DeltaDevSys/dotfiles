@@ -15,5 +15,7 @@ sudo pacman -S wireplumber pipewire pipewire-media-session xdg-desktop-portal-hy
 sudo pacman -S nm-applet
 echo "installing hyprland utils"
 sudo pacman -S hyprpaper, hyprlock, hyprctl
+
 echo "installing utils"
 sudo pacman -S fastfetch htop cava yazi zoxide
+yay -S whitesur-icon-theme-git
