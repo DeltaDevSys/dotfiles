@@ -51,6 +51,7 @@ ____________________________________________________
 ____________________________________________________
 ## Fastfetch
 #### fastfetch cool theme
+#### for start second theme: `fastfetch --config mocha.jsonc`
 ____________________________________________________
 ## Wofi
 #### catppuccin mocha based theme
