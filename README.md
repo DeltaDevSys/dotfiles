@@ -1,3 +1,6 @@
+# Preview
+<img src="screenshot.jpg"/>
+
 # Getting start
 
 ### Copy repo
