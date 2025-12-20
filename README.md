@@ -1,5 +1,5 @@
 # Preview
-<img src="screenshot/screenshot.png"/>
+![Screenshot](https://github.com/DeltaDevSys/dotfiles/screenshots/screenshot_1.png)
 ___________________________________________________________________________________________
 
 # Getting start
