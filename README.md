@@ -5,6 +5,7 @@
 
 ### moving to ~/.config/
 `mv ~/dotfiles/.config/ ~/.config/`
+
 ``` fish
   mv ~/.config/.config/alacritty/ ~/.config/
   mv ~/.config/.config/hypr/ ~/.config/
@@ -13,6 +14,7 @@
   mv ~/.config/.config/waybar/ ~/.config/
   mv ~/.config/.config/wofi/ ~/.config/
   mv ~/.config/.config/fastfetch/ ~/.config/
+  mv ~/.config/.config/fastfetch/themes/mocha.jsonc /usr/share/fastfetch/presets
 ```
 
 ### and copy base config for Vim
