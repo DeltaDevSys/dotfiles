@@ -1,5 +1,5 @@
 # Preview
-![Screenshot](https://github.com/DeltaDevSys/dotfiles/screenshots/screenshot_1.png)
+## Screenshots in folder `screenshots`
 ___________________________________________________________________________________________
 
 # Getting start
