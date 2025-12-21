@@ -41,6 +41,7 @@ ___________________________________________________
 #### My config for NVim for C, C++, Bash, Rust, Lua
 #### Lazy.nvim; Mason; Catppuccin.nvim; Neotree; treesitter; lualine.nvim; bufferline.nvim
 #### Catppuccin mocha theme
+#### For show neotree: `:Neotree`
 ___________________________________________________
 ## Waybar
 #### Catppuccin theme
