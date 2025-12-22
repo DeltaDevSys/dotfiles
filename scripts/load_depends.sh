@@ -21,3 +21,6 @@ sudo pacman -S fastfetch htop cava yazi zoxide
 sudo pacman -S exa bat
 yay -S whitesur-icon-theme-git
 
+echo "installing plug.vim"
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
