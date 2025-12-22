@@ -18,4 +18,6 @@ sudo pacman -S hyprpaper, hyprlock, hyprctl
 
 echo "installing utils"
 sudo pacman -S fastfetch htop cava yazi zoxide
+sudo pacman -S exa bat
 yay -S whitesur-icon-theme-git
+
